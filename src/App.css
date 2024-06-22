@@ -1,4 +1,4 @@
-/* App.css */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
@@ -25,7 +25,7 @@ h1 {
   color: #333;
 }
 
-/* ContactForm.css */
+
 .contact-form {
   max-width: 400px;
   margin: 0 auto 20px auto;
@@ -74,7 +74,6 @@ h1 {
   margin-top: 5px;
 }
 
-/* ContactList.css */
 .contact-list-container {
   max-width: 600px;
   margin: 20px auto;
