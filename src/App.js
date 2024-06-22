@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import ContactForm from './components/contact.form';
 import ContactList from './components/contact.list';
+import './App.css';
 
 const App = () => {
   const [contacts, setContacts] = useState([]);
@@ -49,7 +50,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className="app-container">
       <h1>Contact Management System</h1>
       <ContactForm
         addContact={addContact}
