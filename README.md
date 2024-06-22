@@ -1,4 +1,3 @@
-Sure, here's a comprehensive README file for your Contact Management System project:
 
 ### README.md
 
